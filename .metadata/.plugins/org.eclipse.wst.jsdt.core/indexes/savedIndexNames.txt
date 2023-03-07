@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/beehyv/eclipse-workspace/Jersey/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4172560999.index
+2893523070.index
+2273196076.index
+4134386274.index
+3520893624.index
+4277392130.index
+4156377569.index

@@ -1,0 +1,6 @@
+package com.hello.prome;
+
+@Path("string")
+public class HeloResource {
+
+}

@@ -1,0 +1,12 @@
+package com.hello.prome;
+
+import jakarta.ws.rs.Path;
+
+@Path("string")
+public class HeloResource {
+
+	public String getMessage()
+	{
+		return "Happy Holi";
+	}
+}
